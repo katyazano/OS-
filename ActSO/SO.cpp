@@ -1,6 +1,7 @@
 #include <iostream>
 #include <cstdlib>  // rand, srand
 #include <ctime>    // time
+#include <string>   // to_string
 
 using namespace std;
 struct proceso
